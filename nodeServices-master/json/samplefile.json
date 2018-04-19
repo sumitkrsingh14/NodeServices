@@ -1,0 +1,13 @@
+{
+  "StoreResponse" : {
+    "code" : "200",
+    "message" : "success",
+    "offlineStatus" : false,
+    "user" : {
+      "firstname":"Shubham",
+      "lastname":"Chaturvedi",
+      "code":"node-server-sample-code",
+      "version":"0.0.1"
+    }
+  }
+}

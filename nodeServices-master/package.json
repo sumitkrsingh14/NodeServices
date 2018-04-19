@@ -1,0 +1,21 @@
+{
+    "name": "NodeService",
+    "version": "0.0.1",
+    "author": "Sumit Singh",
+    "description": "Node Services",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {
+        "body-parser": "^1.15.0",
+        "express": "^4.13.4",
+        "grunt": "~0.4.1",
+        "grunt-contrib-jshint": "~0.6.4",
+        "grunt-contrib-watch": "~0.5.3",
+        "mocha": "^2.4.5",
+        "should": "^8.3.1"
+    }
+}
